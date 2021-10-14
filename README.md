@@ -1,1 +1,1 @@
-# DS-5110-Introduction-to-Data-Processing-and-Management
+# DS5110 Introduction to Data Management and Processing
